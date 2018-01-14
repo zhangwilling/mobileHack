@@ -6,6 +6,7 @@
 
 [手机/移动前端开发需要注意的20个要点](https://juejin.im/post/5a1597006fb9a045186a6369)
 [hack](https://www.jianshu.com/p/8ff710dfeea3)
+[h5键盘遮挡](https://www.jianshu.com/p/d535e643e59c)
 
 ##工具类网站
 
